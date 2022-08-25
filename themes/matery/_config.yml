@@ -187,16 +187,16 @@ code:
 
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
-  enable: false
-  title: 你的赏识是我前进的动力
-  wechat: /medias/reward/wechat.png
+  enable: true
+  title: 觉得有帮助的话就请作者吃一根82年的老冰棍吧
+  wechat: /medias/reward/wechat.jpg
   alipay: /medias/reward/alipay.jpg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
 # 是否激活复制文章时追加博客和作者的版权信息.
 copyright:
-  enable: false
+  enable: true
   minCharNumber: 120 # 至少复制多少个字符就追加版权信息.
   description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
 
@@ -616,7 +616,7 @@ ribbon:
 
 # 背景动态彩带.
 ribbon_dynamic:
-  enable: false
+  enable: true
 
 # sharejs文章分享模块.
 # 支持顺序，可选项目为twitter, facebook, google, qq, qzone, wechat, weibo, douban, linkedin.
@@ -639,8 +639,8 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 从来没有真正的绝境, 只有心灵的迷途
-    - Never really desperate, only the lost of the soul
+    - 富强 民主 文明 和谐 自由 平等 公正 法治 爱国 敬业 诚信 友善 
+    - Prosperity Democracy Civilization Harmony Freedom Equality Justice RuleofLaw Patriotism Dedication Honesty Friendly
 
 # 手机二级菜单.
 navMenu:
