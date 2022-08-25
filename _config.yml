@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Welcome To Crisp077's Web
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Crisp077
 language: en
 timezone: ''
 
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
