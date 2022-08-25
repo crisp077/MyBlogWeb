@@ -4,16 +4,16 @@
 
 # Site
 title: 三月江东
-subtitle: 'cout << "Welcome";'
-description: ''
+subtitle: '三月江东'
+description: 'make your own way'
 keywords:
 author: Crisp077
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://www.crisp077.com
+url: http://www.crisp077.xyz
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
